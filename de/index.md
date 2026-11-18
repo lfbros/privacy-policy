@@ -1,6 +1,6 @@
 # Datenschutzerklärung
 
-Diese Datenschutzerklärung gilt für die mobile Anwendung LFBROS (die „App“). Die App wird von der Heilongjiang LF Bros Technology Co., Ltd. (der „Diensteanbieter“, „wir“, „uns“ oder „unser“) bereitgestellt.
+Diese Datenschutzerklärung gilt für die mobile Anwendung LFBROS (die „App“). Die App wird von der HEILONGJIANG LF BROS TECHNOLOGY CO.,LTD. (der „Diensteanbieter“, „wir“, „uns“ oder „unser“) bereitgestellt.
 
 ## Erhebung und Verwendung von Informationen
 
@@ -28,11 +28,11 @@ Die App verlangt von Ihnen keine Angabe Ihres Namens, Ihrer Telefonnummer, Ihrer
 
 ## Ihre Rechte als betroffene Person
 
-Die App speichert Ihre personenbezogenen Daten nicht auf einem Server. Sofern Sie uns per E-Mail Informationen übermittelt haben, können Sie Auskunft, Berichtigung oder Löschung dieser Informationen verlangen. Um diese Rechte auszuüben oder Ihre Einwilligung in eine auf Ihrer Einwilligung beruhende Datenverarbeitung zu widerrufen, wenden Sie sich bitte per E-Mail an den Diensteanbieter: 912890618@qq.com.
+Die App speichert Ihre personenbezogenen Daten nicht auf einem Server. Sofern Sie uns per E-Mail Informationen übermittelt haben, können Sie Auskunft, Berichtigung oder Löschung dieser Informationen verlangen. Um diese Rechte auszuüben oder Ihre Einwilligung in eine auf Ihrer Einwilligung beruhende Datenverarbeitung zu widerrufen, wenden Sie sich bitte per E-Mail an den Diensteanbieter: info@lf-bros.com.
 
 ## Datenschutzrechte für Einwohner Kaliforniens (CCPA/CPRA)
 
-Wenn Sie in Kalifornien, USA, ansässig sind, haben Sie das Recht zu erfahren, welche personenbezogenen Daten erhoben werden, das Recht auf Löschung personenbezogener Daten, das Recht, dem Verkauf und der Weitergabe personenbezogener Daten zu widersprechen, sowie das Recht, wegen der Ausübung Ihrer Datenschutzrechte nicht benachteiligt zu werden. Um Ihre Rechte nach dem CCPA/CPRA auszuüben, senden Sie bitte eine E-Mail an 912890618@qq.com.
+Wenn Sie in Kalifornien, USA, ansässig sind, haben Sie das Recht zu erfahren, welche personenbezogenen Daten erhoben werden, das Recht auf Löschung personenbezogener Daten, das Recht, dem Verkauf und der Weitergabe personenbezogener Daten zu widersprechen, sowie das Recht, wegen der Ausübung Ihrer Datenschutzrechte nicht benachteiligt zu werden. Um Ihre Rechte nach dem CCPA/CPRA auszuüben, senden Sie bitte eine E-Mail an info@lf-bros.com.
 
 Der Diensteanbieter verkauft oder teilt Ihre personenbezogenen Daten nicht und sendet Ihnen keine Marketingmitteilungen. Die von Ihnen per E-Mail übermittelten Informationen werden ausschließlich zur Beantwortung Ihrer Anfrage und zur Erfüllung gesetzlicher Pflichten verwendet.
 
@@ -62,7 +62,7 @@ Der Diensteanbieter gibt von Ihnen freiwillig bereitgestellte Informationen (z. 
 
 Sie können die App deinstallieren, um sämtliche Datenverarbeitungen der App auf Ihrem Gerät zu beenden. Mit der Deinstallation werden die lokal auf Ihrem Gerät gespeicherten App-Daten gelöscht, einschließlich der Geräteverbindungsprotokolle und Einstellungen.
 
-Wenn Sie die Löschung der per E-Mail übermittelten personenbezogenen Daten, den Widerruf der Einwilligung oder die Ausübung anderer Datenschutzrechte beantragen möchten, senden Sie bitte eine E-Mail an 912890618@qq.com.
+Wenn Sie die Löschung der per E-Mail übermittelten personenbezogenen Daten, den Widerruf der Einwilligung oder die Ausübung anderer Datenschutzrechte beantragen möchten, senden Sie bitte eine E-Mail an info@lf-bros.com.
 
 ## Aufbewahrungsfristen
 
@@ -78,13 +78,13 @@ Der Diensteanbieter bewahrt Informationen nur so lange auf, wie es für die Zwec
 
 - Daten, die zur Erfüllung gesetzlicher Pflichten erforderlich sind: aufbewahrt für die nach geltendem Recht vorgeschriebenen Fristen.
 
-Sie können lokal gespeicherte Daten jederzeit durch Deinstallation der App löschen. Um per E-Mail übermittelte personenbezogene Daten zu löschen, wenden Sie sich bitte an 912890618@qq.com.
+Sie können lokal gespeicherte Daten jederzeit durch Deinstallation der App löschen. Um per E-Mail übermittelte personenbezogene Daten zu löschen, wenden Sie sich bitte an info@lf-bros.com.
 
 ## Minderjährige
 
 Die App ist nicht für Kinder unter 16 Jahren bestimmt (oder für ein höheres Alter, falls dies nach lokalem Recht erforderlich ist; in diesem Fall gilt das lokale Recht). Der Diensteanbieter erhebt wissentlich keine Daten von Minderjährigen und betreibt kein Marketing gegenüber Minderjährigen.
 
-Sofern das geltende Recht die Zustimmung eines Erziehungsberechtigten verlangt, dürfen Minderjährige die App ohne diese Zustimmung nicht nutzen. Der Diensteanbieter erhebt wissentlich und rechtmäßig keine personenbezogenen Daten von Kindern unter 16 Jahren. Die App speichert personenbezogene Daten von Minderjährigen nicht auf einem Server; sollten wir Kenntnis davon erlangen, dass solche Informationen erhalten wurden, löschen wir sie unverzüglich. Wenn Sie Erziehungsberechtigter sind und erfahren, dass Ihr Kind uns personenbezogene Daten übermittelt hat, kontaktieren Sie uns bitte unter 912890618@qq.com; wir werden die entsprechenden Maßnahmen ergreifen.
+Sofern das geltende Recht die Zustimmung eines Erziehungsberechtigten verlangt, dürfen Minderjährige die App ohne diese Zustimmung nicht nutzen. Der Diensteanbieter erhebt wissentlich und rechtmäßig keine personenbezogenen Daten von Kindern unter 16 Jahren. Die App speichert personenbezogene Daten von Minderjährigen nicht auf einem Server; sollten wir Kenntnis davon erlangen, dass solche Informationen erhalten wurden, löschen wir sie unverzüglich. Wenn Sie Erziehungsberechtigter sind und erfahren, dass Ihr Kind uns personenbezogene Daten übermittelt hat, kontaktieren Sie uns bitte unter info@lf-bros.com; wir werden die entsprechenden Maßnahmen ergreifen.
 
 ## Informationssicherheit
 
@@ -98,7 +98,7 @@ Im Falle einer Datenschutzverletzung, die Ihre personenbezogenen Daten betrifft,
 
 Der Diensteanbieter kann diese Datenschutzerklärung von Zeit zu Zeit aktualisieren. Bei wesentlichen Änderungen veröffentlichen wir eine aktualisierte Version und geben das Datum des Inkrafttretens an. Soweit gesetzlich erforderlich, holen wir vor dem Inkrafttreten wesentlicher Änderungen erneut Ihre Einwilligung ein.
 
-Frühere Versionen dieser Datenschutzerklärung können per E-Mail an 912890618@qq.com angefordert werden.
+Frühere Versionen dieser Datenschutzerklärung können per E-Mail an info@lf-bros.com angefordert werden.
 
 **Datum des Inkrafttretens: 2026-11-14**
 
@@ -108,4 +108,4 @@ Soweit die Datenverarbeitung auf Ihrer Einwilligung beruht, erteilen Sie diese, 
 
 ## Kontakt
 
-Wenn Sie Fragen zu den Datenschutzregeln bei der Nutzung der App haben, senden Sie bitte eine E-Mail an: 912890618@qq.com.
+Wenn Sie Fragen zu den Datenschutzregeln bei der Nutzung der App haben, senden Sie bitte eine E-Mail an: info@lf-bros.com.

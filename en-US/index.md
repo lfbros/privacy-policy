@@ -1,6 +1,6 @@
 # Privacy Policy
 
-This Privacy Policy applies to the LFBROS mobile application (the "App"). The App is provided by Heilongjiang LF Bros Technology Co., Ltd. (the "Service Provider", "we", "us" or "our").
+This Privacy Policy applies to the LFBROS mobile application (the "App"). The App is provided by HEILONGJIANG LF BROS TECHNOLOGY CO.,LTD. (the "Service Provider", "we", "us" or "our").
 
 ## Information Collection and Use
 
@@ -28,11 +28,11 @@ The App does not require you to provide your name, phone number, email address o
 
 ## Your Personal Rights
 
-The App does not store your personal data on a server. If you have provided information to us by email, you may request access to, correction of, or deletion of that information. To exercise these rights, or to withdraw your authorization for data processing carried out on the basis of your consent, please contact the Service Provider at 912890618@qq.com.
+The App does not store your personal data on a server. If you have provided information to us by email, you may request access to, correction of, or deletion of that information. To exercise these rights, or to withdraw your authorization for data processing carried out on the basis of your consent, please contact the Service Provider at info@lf-bros.com.
 
 ## California User Privacy Rights (CCPA/CPRA)
 
-If you reside in California, USA, you have the right to know what personal information is collected, the right to delete personal information, the right to opt out of the sale and sharing of personal information, and the right not to be discriminated against for exercising your privacy rights. To exercise your rights under the CCPA/CPRA, please email 912890618@qq.com.
+If you reside in California, USA, you have the right to know what personal information is collected, the right to delete personal information, the right to opt out of the sale and sharing of personal information, and the right not to be discriminated against for exercising your privacy rights. To exercise your rights under the CCPA/CPRA, please email info@lf-bros.com.
 
 The Service Provider does not sell or share your personal information and does not send you marketing communications. Information you submit by email is used only to respond to your request and to comply with legal obligations.
 
@@ -62,7 +62,7 @@ The Service Provider discloses information you voluntarily provide (for example,
 
 You may uninstall the App to stop all data processing performed by the App on your device. Uninstalling the App deletes the app data stored locally on your device, including device connection records and preferences.
 
-If you request deletion of personal information provided by email, withdrawal of authorization, or exercise of other privacy rights, please email 912890618@qq.com.
+If you request deletion of personal information provided by email, withdrawal of authorization, or exercise of other privacy rights, please email info@lf-bros.com.
 
 ## Data Retention Policy
 
@@ -78,13 +78,13 @@ The Service Provider retains information only to the extent necessary for the pu
 
 - Data required to fulfill legal obligations: retained for the periods prescribed by applicable law.
 
-You may delete locally stored data at any time by uninstalling the App. To delete personal information provided by email, please contact 912890618@qq.com.
+You may delete locally stored data at any time by uninstalling the App. To delete personal information provided by email, please contact info@lf-bros.com.
 
 ## Minors
 
 The App is not intended for children under 16 years of age (or a higher age if required by local law, in which case local law prevails). The Service Provider does not intentionally collect data from minors and does not market to minors.
 
-Where applicable law requires guardian consent, minors may not use the App without such consent. The Service Provider does not knowingly or unlawfully collect personally identifiable information from children under 16. The App does not store minors' personal information on a server; if we become aware that such information has been received, we will delete it immediately. If you are a guardian and learn that your child has submitted personal information to us, please contact us at 912890618@qq.com and we will take the corresponding action.
+Where applicable law requires guardian consent, minors may not use the App without such consent. The Service Provider does not knowingly or unlawfully collect personally identifiable information from children under 16. The App does not store minors' personal information on a server; if we become aware that such information has been received, we will delete it immediately. If you are a guardian and learn that your child has submitted personal information to us, please contact us at info@lf-bros.com and we will take the corresponding action.
 
 ## Information Security
 
@@ -98,7 +98,7 @@ In the event of a data breach affecting your personal data, the Service Provider
 
 The Service Provider may update this Privacy Policy from time to time. In the event of material changes, we will publish an updated version and indicate the effective date. Where required by law, we will obtain your consent again before material changes take effect.
 
-Prior versions of this Privacy Policy may be obtained by emailing 912890618@qq.com.
+Prior versions of this Privacy Policy may be obtained by emailing info@lf-bros.com.
 
 **Effective Date: 2026-11-14**
 
@@ -108,4 +108,4 @@ Where data processing relies on your consent, you grant authorization by activel
 
 ## Contact Us
 
-If you have any questions about privacy practices while using the App, please email: 912890618@qq.com.
+If you have any questions about privacy practices while using the App, please email: info@lf-bros.com.
